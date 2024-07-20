@@ -325,7 +325,7 @@ classification_report(y_test,y_predict3)
 
 
 #Logistic trees are least accurate amongst the three while Random forests are most accurate.
-#Logistic regression assumes linear relationship between features adn target which might not be the case always. 
+#Logistic regression assumes linear relationship between features and target which might not be the case always. 
 #Decision trees are prone to overfitting if the trees get complex.
 #Random forests are an ensemble of trees which ensure that overfitting is reduced due to taking average and it is good in identifiying general trends in data and hence it has the highest accuracy score.
 
